@@ -1,2 +1,4 @@
 # learnpythonthehardway.org
-The exercises
+La ekzercoj
+
+Mi ŝanĝas la README.MD dosieron.2
