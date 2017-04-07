@@ -1,0 +1,2 @@
+# learnpythonthehardway.org
+The exercises
