@@ -1,4 +1,4 @@
 # learnpythonthehardway.org
 La ekzercoj
 
-Mi ŝanĝas la README.MD dosieron.
+Mi ŝanĝis la README.MD dosieron kaj mi reŝanĝas ĝin!
